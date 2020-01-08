@@ -18,3 +18,6 @@ It is based on https://github.com/danielorf/Transform3DBestFit
 * D W Eggert, A Lorusso, and R B Fisher, Estimating 3-D Rigid Body Transformations: A Comparison of Four Major Algorithms, Machine Vision and Applications, 1997, IX <https://doi.org/10.1007/s001380050048>.
 * Sorkine-Hornung, Olga, and Michael Rabinovich. "Least-squares rigid motion using svd." Computing 1.1 (2017), http://igl.ethz.ch/projects/ARAP/svd_rot.pdf
 * 3D Kinematics, https://github.com/wojtin/3D-Transformation-Matrix-Calculator/blob/master/References/3dkinematics.pdf
+
+## License
+You may use this software under the [Apache 2.0 License](https://github.com/tensorflow/graphics/blob/master/LICENSE).
