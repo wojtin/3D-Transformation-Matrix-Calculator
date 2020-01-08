@@ -1,0 +1,16 @@
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MathNet.Numerics.Data.Text.dll
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MathNet.Numerics.Data.Text.xml
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\3D BestFit Transformation v1.1.exe.config
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\3D BestFit Transformation v1.1.exe
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\3D BestFit Transformation v1.1.pdb
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MathNet.Spatial.dll
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MathNet.Spatial.xml
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\3D BestFit Transformation v1.1.exe
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\3D BestFit Transformation v1.1.pdb
+C:\Users\samsung\Documents\Nauka\Quaternion\Test_cs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
