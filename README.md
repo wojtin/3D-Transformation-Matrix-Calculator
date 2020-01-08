@@ -6,6 +6,10 @@ This is C# open source software to use for:
 
 It is based on https://github.com/danielorf/Transform3DBestFit
 
+## Screenshot
+
+![Transformation Matrix Calculator screenshot](https://raw.githubusercontent.com/wojtin/3D-Transformation-Matrix-Calculator/master/screenshot.png)
+
 ## References
 
 * G. A. Watson, ‘Computing Helmert Transformations’, Journal of Computational and Applied Mathematics, 197.2 (2006), 387–94, https://doi.org/10.1016/j.cam.2005.06.047
